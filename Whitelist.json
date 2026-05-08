@@ -1,17 +1,13 @@
 {
-  "Gebura": [3701191190],
-  "FC4IB5": [3701191190],
   "Hornet": [3701191190],
-  "Meaty": [3701191190],
   "Crusader": [3701191190],
   "Invisible": [3701191190],
-  "Jimpee": [3701191190],
   "Big Rah": [3701191190],
-  "Custom Server Moderator": [3701191190],
-  "Developer Panel": [3701191190],
-  "Staff Panel": [3701191190],
-  "Scripter Panel": [3701191190],
-  "World Events Enabled": {"MeatyMeteor": true},
+  "Custom Server Moderator": [],
+  "Developer Panel": [],
+  "Staff Panel": [],
+  "Scripter Panel": [],
+  "World Events Enabled": {},
   "Cursed Child Boss Moves": [3701191190],
   "Cursed Child Boss Voicelines": [3701191190]
 }
